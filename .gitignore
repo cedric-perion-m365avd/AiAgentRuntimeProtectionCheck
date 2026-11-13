@@ -1,0 +1,24 @@
+# Rapports générés (peuvent contenir des noms de postes)
+*.json
+*.html
+*.csv
+rapports/
+reports/
+
+# Journaux et fichiers temporaires
+*.log
+*.tmp
+*.bak
+
+# Résultats de tests PowerShell
+TestResults/
+testResults.xml
+coverage.xml
+
+# Éditeurs et systèmes
+.vscode/
+.idea/
+*.code-workspace
+Thumbs.db
+Desktop.ini
+.DS_Store
